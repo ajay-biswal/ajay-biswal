@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 <h1 align="center">Hi 👋, Ajay Kumar Biswal</h1>
 <h3 align="center">Full Stack Developer</h3>
 
